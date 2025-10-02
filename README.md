@@ -35,3 +35,7 @@ git diff [branch] -> Check differ thing contain between branch
 git merge [branch] -> Merge new content to main branch
 
 git branch -d [branch] -> Delete Branch
+
+## New Commend Terminal
+
+git commit -am "" //This command line for modify the file only.
