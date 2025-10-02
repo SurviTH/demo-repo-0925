@@ -27,3 +27,11 @@ git checkout -b -> Create A New Branch
 ## Git Create And Upload for New Branch
 
 1. Open index.html in the Browser.
+
+## New Command Terminal
+
+git diff [branch] -> Check differ thing contain between branch
+
+git merge [branch] -> Merge new content to main branch
+
+git branch -d [branch] -> Delete Branch
