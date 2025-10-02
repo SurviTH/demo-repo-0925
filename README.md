@@ -39,3 +39,6 @@ git branch -d [branch] -> Delete Branch
 ## New Commend Terminal
 
 git commit -am "" //This command line for modify the file only.
+
+* Note
+ * when it change the file on main branch with content but the content is the same line on sub branch. The git will notify to commit or stach. But we need to commit to change[checkout] the branch and diff for check content before merge.
