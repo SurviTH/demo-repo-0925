@@ -43,3 +43,9 @@ git commit -am "" //This command line for modify the file only.
 * Note
  * when it change the file on main branch with content but the content is the same line on sub branch. The git will notify to commit or stach. But we need to commit to change[checkout] the branch and diff for check content before merge.
 
+## Undoing git
+
+    - git reset [filename / HEAD~[point{1,2,3, ...}]] reset state when commit and push error
+    - git log for check commit history
+
+* Spacebar on keyboard when [git log] to skip to the end history display.
