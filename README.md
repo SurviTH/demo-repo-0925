@@ -49,3 +49,8 @@ git commit -am "" //This command line for modify the file only.
     - git log for check commit history
 
 * Spacebar on keyboard when [git log] to skip to the end history display.
+
+## Undoing git More Command Line
+
+    - git reset --hard [patch] to revise to the previous version.
+
